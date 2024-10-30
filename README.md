@@ -1,1 +1,1 @@
-# SC-D--lab2
+# SCD-lab2
